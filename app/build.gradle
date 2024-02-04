@@ -4,9 +4,9 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        //applicationId 'com.github1.tvbox.osc'
+        applicationId 'com.github.tvbox.osc.ly'
         // 电视家
-        applicationId 'com.dianshijia.newlive'
+        //applicationId 'com.dianshijia.newlive'
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1
